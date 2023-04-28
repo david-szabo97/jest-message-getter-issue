@@ -1,0 +1,23 @@
+{
+  "name": "jest-message-getter-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david-szabo97/jest-message-getter-issue.git"
+  },
+  "keywords": [],
+  "author": "Dávid Szabó",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david-szabo97/jest-message-getter-issue/issues"
+  },
+  "homepage": "https://github.com/david-szabo97/jest-message-getter-issue#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
